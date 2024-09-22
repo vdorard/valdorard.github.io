@@ -1,23 +1,109 @@
 ---
-title: Bloom Box
-publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
+title: How to make a good design
+publishDate: 2024-19-09 00:00:00
+img: /assets/good_design.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Homework 1: Affordance, Gestalt's laws and Dark Designs 
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - HCI
+  - Homework
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+## Principles of Good Design
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+1. **Affordance** – Understanding how users interact with objects based on visual and functional cues.
+2. **Gestalt's Laws** – Grouping and pattern recognition to simplify user interaction.
+3. **Dark Designs** – Ethical considerations in avoiding manipulative design patterns.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+### Introduction
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Good design determines how a user interacts with a system and how the system responds to user actions.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+A successful design is intuitive and easy to use.
+
+The role of the designer is to ensure that the user easily understands how to use the system and that the system responds in a predictable way for the user.
+
+**In this article, I will go over different types of design, and present either good or bad example of each one.**
+
+--- 
+
+### Affordance
+
+Affordance is the technique that makes the user intuitively guess how to use the object.
+
+Let's take an example of a good design affordance : 
+
+![Button for a good affordance](/assets/good_affordance.jpeg)
+
+Each of those buttons are intuitive to use. 
+
+The first one is a press button, and the drawing on it make it explicit for the users. The second one is clearly a flip and switch, and the third one is a rotate button. 
+
+By the design, the lack of other possibilites than the rights one. The use of those button are intuitive and very clear. This is what a good affodance should look like. 
+
+#### Good affordance 
+
+![Button for a good affordance](/assets/rise_cooker.jpg)
+
+The rice cooker is an example of good affodance. The rice cooker is equipped with a push-button for cooking and two lights labeled “cook” and “warm”. When rice and water are put into the rice cooker, the button is pressed, the "cook" light is up, and when the rice is hot, the button is automatically changed and make a sound, and the "warm" is lights up.
+
+#### Bad affordance
+
+
+![A bright pink sheet of paper used to wrap flowers curves in front of a rich blue background](/assets/cle_usb.jpg)
+
+In this design, i can't figure out which way should I put the key on my laptop, I have this impression that the first one is wrong, so I try the other way. This could be fix if both size could fit, as USB-C does. 
+
+---
+
+#### Gestalt's Laws of perception
+
+Gestalt laws are a set of principles that explain how the human brain interprets visual elements. They claim that factors such as color, shape, size, proximity and orientation influence our perception of these elements. There are composed with six laws which are as follows :
+
+![Gestalt's laws](/assets/Gestalt.png)
+
+
+- **Law of Proximity** : Elements that are close to each other are perceived as a group.
+- **Law of Similarity** : Elements that are similar to each other are perceived as a group.
+- **Law of Closure**: The brain tends to fill in the gaps of incomplete shapes.
+- **Law of Continuity** : The brain tends to perceive continuous lines rather than discontinuous ones.
+- **Law of Common Region** : Elements that are in the same region are perceived as a group.
+- **Law of Prägnanz (or Law of Good Figure)** : The brain tends to perceive simple shapes rather than complex ones.
+
+##### Bad implementation of Gestalt's laws 
+
+![Carrefour logo](/assets/Carrefour.png)
+
+The carrefour's logo was a mystery for me for a very long time, at first, i was seeing a face turned 90°, but in face, it's a C in diamond. What could be achieve to make it clearer, is highlight the C, with a black pen.
+
+![Carrefour logo](/assets/carrefour_modifié.png)
+
+
+
+
+Also, a example of a design I saw recently that was made by a worker, is the design of the paint with the label "STOP" which is here "SOTP". I think we all know what he should have done.. 
+
+![Carrefour logo](/assets/sotp.jpeg)
+
+---
+
+#### Dark design 
+
+There are a lot of dark design patterns, which are intentionally deceptive design techniques used to manipulate users into taking unwanted or unbeneficial actions. Here are several examples of it : 
+
+- **Confirmshaming** : When an application makes you culpabilize to not using it, for example in duolingo : 
+
+In order to counter that, The choices offered to users must be neutral and respectful. For example, the options should simply say "Yes, I want to subscribe" and "No, thank you" without implicit judgment.
+
+![Carrefour logo](/assets/confirmshaming.jpg)
+
+- **Roach Motel** : The aspect of make the subscribing so much easier than the unsubscribing. In a lot of application like Capcut, there are a lot of steps to unsubscibe the service. Even in some business in real life, such as sports hall, this mechanism is used to keep the client in the service. 
+
+![Carrefour logo](/assets/roach_motel.png)
+
+Options to opt-in and opt-out should be equally accessible and easy to find, so users have fair control over their decisions.
+
+
+
+
